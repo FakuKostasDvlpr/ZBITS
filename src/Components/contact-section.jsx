@@ -1,8 +1,6 @@
-'use client'
-
 import React from 'react';
 import { Mail } from "lucide-react";
-import { Input } from "@/components/ui/input";
+import { Input } from "../Components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Button } from "@/components/ui/button";
 
