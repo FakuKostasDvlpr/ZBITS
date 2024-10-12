@@ -1,8 +1,8 @@
 import React from 'react';
 import { Mail } from "lucide-react";
 import { Input } from "../Components/ui/input";
-import { Textarea } from "@/components/ui/textarea";
-import { Button } from "@/components/ui/button";
+import { Textarea } from "../Components/ui/textarea";
+import { Button } from "../Components/ui/button";
 
 export function ContactSectionJsx() {
   return (
