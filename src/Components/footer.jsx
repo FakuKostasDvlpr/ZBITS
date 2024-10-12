@@ -1,5 +1,3 @@
-'use client'
-
 export function FooterJsx() {
   return (
     (<footer className=" h-fit mt-40 bg-gradient-to-b from-[#0A0909] to-[rgba(3,1,1,0)] flex flex-col justify-center items-center px-4 text-gray-200">

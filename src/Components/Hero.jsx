@@ -1,4 +1,3 @@
-"use client";
 import { TypewriterEffect } from "../Components/ui/typewriter-effect";
 import '../styles/others.css'
 import { Link } from "react-scroll";
