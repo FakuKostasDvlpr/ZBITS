@@ -23,6 +23,7 @@ function App() {
       <div id="contacto"></div>
       <ContactSectionJsx />
       <FooterJsx />
+      {/* Botón flotante para volver al inicio */}
       <ButtonToTop/>
     </>
   );
