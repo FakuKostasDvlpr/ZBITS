@@ -15,8 +15,8 @@ export function ContactSectionJsx() {
                 className="flex items-center justify-center w-12 h-12 bg-[#800000] text-red-600 rounded-full">
                 <Mail color='white' className="w-6 h-6" />
               </div>
-            </div>
             <h2 className="text-3xl font-bold tracking-tight text-gray-300 sm:text-4xl">Consulta!</h2>
+            </div>
             <div className='flex mb-10'>
               <p className="mt-4 text-lg leading-8 text-gray-400">
               ¿Necesitas una cotización personalizada o tienes alguna duda? Nuestro equipo está listo para ayudarte. Rellena el formulario de contacto y te brindaremos toda la información que necesitas.
